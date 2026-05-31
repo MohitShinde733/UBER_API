@@ -1,0 +1,7 @@
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/dto/TripDetailsResponse.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/config/HttpClientConfig.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/dto/OsrmRouteResponse.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/service/TripRoutingService.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/dto/NominatimResult.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/TripApiApplication.java
+/Users/lekhanashinde/Desktop/uber API/src/main/java/com/trip/api/web/TripDetailsController.java

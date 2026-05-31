@@ -1,0 +1,8 @@
+com/trip/api/dto/OsrmRouteResponse$OsrmRoute.class
+com/trip/api/dto/NominatimResult.class
+com/trip/api/TripApiApplication.class
+com/trip/api/web/TripDetailsController.class
+com/trip/api/service/TripRoutingService.class
+com/trip/api/config/HttpClientConfig.class
+com/trip/api/dto/TripDetailsResponse.class
+com/trip/api/dto/OsrmRouteResponse.class
